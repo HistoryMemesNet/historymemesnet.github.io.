@@ -859,6 +859,7 @@
 					max-width: 100%;
 					height: auto;
 					vertical-align: middle;
+					padding: 15px
 				}
 
 				.gallery .content .media:hover img {
