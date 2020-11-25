@@ -1607,3 +1607,27 @@
 			}
 
 		}
+
+		
+		/* buttons next/previous */
+		
+		.previous {
+			background-color: #19B5FE;
+			color: white;
+			border-radius: 10px;
+			font-size: 30px;
+			text-decoration: none;
+		  }
+		  
+		.next {
+			background-color: #19B5FE;
+			color: white;
+			border-radius: 10px;
+			font-size: 30px;
+			margin: 10px;
+			text-decoration: none;
+		  }
+
+		.page {
+			text-align: center;
+		}
