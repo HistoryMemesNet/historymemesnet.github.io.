@@ -1617,6 +1617,7 @@
 			border-radius: 4px;
 			font-size: 27px;
 			font-weight: 700;
+			font-family: Arial, Helvetica, sans-serif;
 			text-decoration: none;
 			padding: 0 1.2em;
 			display: inline-block;
@@ -1629,9 +1630,10 @@
 			border-radius: 4px;
 			font-size: 27px;
 			font-weight: 700;
+			font-family: Arial, Helvetica, sans-serif;
 			margin: 10px;
 			text-decoration: none;
-			padding: 0 1.2em;
+			padding: 0 2.2em;
 			display: inline-block;
 			white-space: nowrap;
 		  }
