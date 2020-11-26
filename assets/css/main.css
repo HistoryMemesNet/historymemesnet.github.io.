@@ -1614,18 +1614,26 @@
 		.previous {
 			background-color: #19B5FE;
 			color: white;
-			border-radius: 10px;
-			font-size: 30px;
+			border-radius: 4px;
+			font-size: 27px;
+			font-weight: 700;
 			text-decoration: none;
+			padding: 0 1.2em;
+			display: inline-block;
+			white-space: nowrap;
 		  }
 		  
 		.next {
 			background-color: #19B5FE;
 			color: white;
-			border-radius: 10px;
-			font-size: 30px;
+			border-radius: 4px;
+			font-size: 27px;
+			font-weight: 700;
 			margin: 10px;
 			text-decoration: none;
+			padding: 0 1.2em;
+			display: inline-block;
+			white-space: nowrap;
 		  }
 
 		.page {
