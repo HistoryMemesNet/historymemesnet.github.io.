@@ -1460,8 +1460,8 @@
 		-webkit-justify-content: center;
 		-ms-justify-content: center;
 		justify-content: center;
-		min-height: 75vh;
-		height: 75vh;
+		min-height: 50vh;
+		height: 50vh;
 		position: relative;
 		background: #000;
 		background-image: url(../../images/Memebanner.jpg);
